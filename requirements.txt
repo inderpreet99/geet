@@ -1,0 +1,4 @@
+mutagen
+stagger
+eyeD3~=0.9.6
+python-magic-bin  # for eyeD3 on windows
